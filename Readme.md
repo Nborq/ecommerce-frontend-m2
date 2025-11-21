@@ -3,7 +3,7 @@
 Este proyecto corresponde al **MVP de una tienda en línea** desarrollado para el  
 **Módulo 2 – Desarrollo Frontend – Programa SENCE**.
 
-Incluye una tienda ficticia llamada **TitoStore**, donde se muestran y gestionan 3 cartas coleccionables.
+Incluye una tienda ficticia llamada **TitoStore**, donde se muestran y gestionan 3 cartas coleccionables de Magic The Gathering.
 
 ---
 
@@ -47,5 +47,5 @@ https://github.com/Nborq/ecommerce-frontend-m2
 
 ---
 
-## 📄 Autor
+## 📄 Autor Nelson Borquez
 Proyecto desarrollado como parte del **Módulo 2 – Desarrollo Frontend**.
