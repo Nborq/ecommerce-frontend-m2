@@ -36,7 +36,7 @@ Incluye una tienda ficticia llamada **TitoStore**, donde se muestran y gestionan
 ---
 
 ## 🗂 Estructura del proyecto
-
+HTML, CSS y JS con una estructura simple con poco texto y los productos en frente de todo 
 
 ---
 
