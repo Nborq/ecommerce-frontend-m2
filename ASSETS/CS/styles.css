@@ -1,0 +1,13 @@
+body {
+    color: #3b0a57; /* Morado oscuro */
+}
+
+/* Cards */
+.card-product {
+    cursor: pointer;
+    transition: 0.2s;
+}
+.card-product:hover {
+    transform: scale(1.05);
+}
+
